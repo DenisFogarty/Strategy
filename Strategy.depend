@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1537757222 source:/home/denis/Programming/C++/CodeBlocks/Strategy/main.cpp
+	<iostream>
+	"Human.h"
+	"Deer.h"
+	"Prey.h"
+
+1537637325 source:/home/denis/Programming/C++/CodeBlocks/Strategy/src/IMovement.cpp
+	"IMovement.h"
+
+1537637325 /home/denis/Programming/C++/CodeBlocks/Strategy/include/IMovement.h
+
+1537637340 source:/home/denis/Programming/C++/CodeBlocks/Strategy/src/ISight.cpp
+	"ISight.h"
+
+1537637340 /home/denis/Programming/C++/CodeBlocks/Strategy/include/ISight.h
+
+1537646108 source:/home/denis/Programming/C++/CodeBlocks/Strategy/src/Animal.cpp
+	"Animal.h"
+
+1537708373 /home/denis/Programming/C++/CodeBlocks/Strategy/include/Animal.h
+
+1537644149 /home/denis/Programming/C++/CodeBlocks/Strategy/include/HuntMovementBehaviour.h
+
+1537644097 /home/denis/Programming/C++/CodeBlocks/Strategy/include/HuntSightBehaviour.h
+
+1537708386 /home/denis/Programming/C++/CodeBlocks/Strategy/include/DefendMovementBehaviour.h
+	<iostream>
+	"Animal.h"
+
+1537644927 /home/denis/Programming/C++/CodeBlocks/Strategy/include/DefendSightBehaviour.h
+	<iostream>
+	"Animal.h"
+
+1537646156 source:/home/denis/Programming/C++/CodeBlocks/Strategy/src/DefendMovementBehaviour.cpp
+	"DefendMovementBehaviour.h"
+
+1537644889 source:/home/denis/Programming/C++/CodeBlocks/Strategy/src/DefendSightBehaviour.cpp
+	"DefendSightBehaviour.h"
+
+1537644149 source:/home/denis/Programming/C++/CodeBlocks/Strategy/src/HuntMovementBehaviour.cpp
+	"HuntMovementBehaviour.h"
+
+1537644097 source:/home/denis/Programming/C++/CodeBlocks/Strategy/src/HuntSightBehaviour.cpp
+	"HuntSightBehaviour.h"
+
+1537757194 source:/home/denis/Programming/C++/CodeBlocks/Strategy/src/Human.cpp
+	"Human.h"
+
+1537757266 /home/denis/Programming/C++/CodeBlocks/Strategy/include/Human.h
+	"Animal.h"
+	"Hunter.h"
+
+1537757036 source:/home/denis/Programming/C++/CodeBlocks/Strategy/src/Prey.cpp
+	"Prey.h"
+
+1537757078 /home/denis/Programming/C++/CodeBlocks/Strategy/include/Prey.h
+	<iostream>
+	"Animal.h"
+
+1537749482 source:/home/denis/Programming/C++/CodeBlocks/Strategy/src/Hunter.cpp
+	"Hunter.h"
+
+1537756169 /home/denis/Programming/C++/CodeBlocks/Strategy/include/Hunter.h
+	<iostream>
+	"Animal.h"
+
+1537757067 /home/denis/Programming/C++/CodeBlocks/Strategy/include/Deer.h
+	"Animal.h"
+
+1537756970 source:/home/denis/Programming/C++/CodeBlocks/Strategy/src/Deer.cpp
+	"Deer.h"
+
